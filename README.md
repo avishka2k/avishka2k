@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/avishka2k) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/a-prabath-9b3267213/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/a-prabath-9b3267213/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='33'>](https://www.facebook.com/avishka2k) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='33'>](https://twitter.com/AvishkaPrabath6)   
 </div>
 
 ## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Avishka Prabath
@@ -17,7 +17,8 @@ Skills: C/C++
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-C_Programing-informational?style=flat&logo=C&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C_Programing-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8)
