@@ -28,8 +28,6 @@ Skills: C/C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishka2k&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avishka2k&repo=Simple-Clock&theme=white)](https://github.com/avishka2k/Simple-Clock.git)
-
 ![GitHub metrics](https://metrics.lecoq.io/avishka2k)  
 
 ![Profile views](https://gpvc.arturio.dev/avishka2k)  
