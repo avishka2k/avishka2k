@@ -1,5 +1,6 @@
 ## Hi there 👋, My name is Avishka Prabath
-#### I am a programmer
+#### I am a programmer!
+![I am GitHub Readme Generator's creator](https://github.com/avishka2k/avishka2k/blob/main/banner.jpg)
 
 I am currently studying software engineering at NSBM Green University, Srilanka
 
