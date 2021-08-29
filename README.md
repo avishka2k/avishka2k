@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Avishka Prabath
+## Hi there 👋, My name is Avishka Prabath
 #### I am a programmer
 
 I am currently studying software engineering at NSBM Green University, Srilanka
@@ -8,7 +8,7 @@ Skills: C/C++
 - 🌱 I’m currently learning C programming 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avishka2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/a-prabath-9b3267213//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/avishka2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/a-prabath-9b3267213//)  
 
 ## 🔧 Technologies & Tools
 
