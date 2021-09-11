@@ -26,8 +26,7 @@ Skills: C/C++
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishka2k&show_icons=true&theme=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishka2k&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/avishka2k)  
+  
 
 ![Profile views](https://gpvc.arturio.dev/avishka2k)  
 
