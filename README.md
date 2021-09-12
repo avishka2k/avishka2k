@@ -21,13 +21,12 @@ Skills: C/C++
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Stats
+## <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg"/>  GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishka2k&show_icons=true&theme=white)
+![Avishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishka2k&show_icons=true&theme=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishka2k&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-
 ![Profile views](https://gpvc.arturio.dev/avishka2k)  
 
 
