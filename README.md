@@ -35,7 +35,7 @@ Skills: C / Java / HTML / CSS / JS / PHP
 
 ![Avishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishka2k&show_icons=true&theme=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishka2k&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishka2k&theme=white&layout=compact)
   
 ![Profile views](https://gpvc.arturio.dev/avishka2k) 
 
