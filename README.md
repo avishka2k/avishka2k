@@ -5,7 +5,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/avishka2k/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='33'>](https://www.facebook.com/avishka2k) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='33'>](https://twitter.com/avishka2k)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='33'>](https://www.hackerrank.com/avishka2k)   
 </div>
 
-## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Avishka Prabath
+## Hi there, I am Avishka Prabath
 ### I am a programmer!
 
 I am currently studying software engineering at NSBM Green University, Srilanka
