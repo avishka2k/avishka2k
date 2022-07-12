@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://github.com/avishka2k/avishka2k/blob/main/banner.jpg)
 
 <div align="center">
 
