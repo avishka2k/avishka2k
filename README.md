@@ -55,7 +55,7 @@ I am a Full Stack Developer from Sri Lanka.
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
 </div>
 
-### 🏆 Achievements:
+### 🏆 Achievements (2022):
 [![@avishka2k's Holopin board](https://holopin.me/avishka2k)](https://holopin.io/@avishka2k)
 
 ### :fire: My Stats :
