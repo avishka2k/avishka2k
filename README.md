@@ -45,6 +45,8 @@ I am a Full Stack Developer from Sri Lanka.
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-1572B6?logo=docker&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vercel-111111?logo=vercel&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Terraform-7740b6?logo=terraform&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp;&nbsp;
