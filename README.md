@@ -58,8 +58,10 @@ I am a Full Stack Developer from Sri Lanka.
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
 </div>
 
-### 🏆 Achievements (2022):
+### 🏆 Achievements :
 [![@avishka2k's Holopin board](https://holopin.me/avishka2k)](https://holopin.io/@avishka2k)
+
+<img src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" width="200"/>
 
 ### :fire: My Stats :
 
