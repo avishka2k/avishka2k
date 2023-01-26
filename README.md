@@ -61,7 +61,9 @@ I am a Full Stack Developer from Sri Lanka.
 ### 🏆 Achievements :
 [![@avishka2k's Holopin board](https://holopin.me/avishka2k)](https://holopin.io/@avishka2k)
 
-<img src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" width="200"/>
+<img width="200" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" /><img width="200" src="https://user-images.githubusercontent.com/86360412/214763352-e6e1016c-6581-4e27-8694-b5fc8eba95f9.png" alt="DevOps Badge"/><img width="180" src="https://user-images.githubusercontent.com/86360412/214763691-6c14f5d6-0a46-4052-b409-f41d483d8716.png"/>
+
+
 
 ### :fire: My Stats :
 
