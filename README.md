@@ -36,7 +36,9 @@ I am a Full Stack Developer from Sri Lanka.
 
 <div id="header" align="center">
 <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-csharp-430098?style=flat-square&logo=C#"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-dotnet-02569B?style=flat-square&logo=.NET"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
