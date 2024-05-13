@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer from Sri Lanka.
+I am DevOps Practitioner And Full Stack Developer from Sri Lanka.
 
 - :telescope: I am currently studying software engineering at NSBM Green University.
 
