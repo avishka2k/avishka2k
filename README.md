@@ -79,5 +79,7 @@ I am DevOps Practitioner And Full Stack Developer from Sri Lanka.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishka2k&layout=compact&theme=dark)
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=2859d543cb19&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
