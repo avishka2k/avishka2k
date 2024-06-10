@@ -31,55 +31,33 @@ I am DevOps Practitioner And Full Stack Developer from Sri Lanka.
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Avishka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avishkap)
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div id="header" align="center">
-<img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-csharp-430098?style=flat-square&logo=C#"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-dotnet-02569B?style=flat-square&logo=.NET"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-1572B6?logo=docker&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vercel-111111?logo=vercel&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Terraform-7740b6?logo=terraform&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ansible-de0046?logo=ansible&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-000?logo=jenkins&style=flat-square&logoColor=red"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Aws-011?style=flat-square&logo=amazon"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=FFBB00"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
+<br/>
+<div align="center">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Avishka2k&custom_title=avishka's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+  <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka2k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </div>
 
-### 🏆 Achievements :
+#### :hammer_and_wrench: Languages and Tools :
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,nestjs,react,dotnet,flask" />
+  </a>
+</p>
+
+
+#### 🏆 Achievements :
 
 [![@avishka2k's Holopin board](https://holopin.me/avishka2k)](https://holopin.io/@avishka2k)
 
 <div align="center">
-<img width="200" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
-<img width="200" src="https://user-images.githubusercontent.com/86360412/214763352-e6e1016c-6581-4e27-8694-b5fc8eba95f9.png" alt="DevOps Badge"/>
-<img width="180" src="https://user-images.githubusercontent.com/86360412/214763691-6c14f5d6-0a46-4052-b409-f41d483d8716.png"/>
+<img width="150" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
+<img width="150" src="https://user-images.githubusercontent.com/86360412/214763352-e6e1016c-6581-4e27-8694-b5fc8eba95f9.png" alt="DevOps Badge"/>
+<img width="130" src="https://user-images.githubusercontent.com/86360412/214763691-6c14f5d6-0a46-4052-b409-f41d483d8716.png"/>
 </div>
-
-### :fire: My Stats :
-
-![Avishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishka2k&show_icons=true&theme=dark&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishka2k&layout=compact&theme=dark)
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=2859d543cb19&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
