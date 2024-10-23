@@ -44,7 +44,7 @@ I am DevOps Practitioner And Full Stack Developer from Sri Lanka.
     <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,nestjs,react,dotnet,flask" />
+    <img src="https://skillicons.dev/icons?i=npm,nestjs,react,spring,dotnet,flask" />
   </a>
 </p>
 
