@@ -1,55 +1,55 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="mailto:avishka2k@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<!-- Header icons -->
+<div>
+ <!-- Day and Night icons -->
+  <a href="https://github.com/settings/appearance#gh-light-mode-only">  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
   </a>
-  <a href="https://www.linkedin.com/in/avishkap" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/avishka2k" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/avishka2k" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
+
+  <a href="https://github.com/settings/appearance#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
   </a>
 </div>
-<img src="https://gpvc.arturio.dev/avishka2k" alt=""/>
-<h1>
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br/> I am Avishka Prabath
-</h1>
-</div>
 
-### :man_technologist: About Me :
+<h1> Hello, I am Avishka <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
+<div align="left">
 
-I am DevOps Practitioner And Full Stack Developer from Sri Lanka.
+<!--   About me -->
+* ☁️ Cloud enthusiast | 🐧 Linux lover | 🌩️ AWS explorer.   
+* 💻 Building full-stack dreams, one line at a time.  
+* 🚀 Turning curiosity into code and challenges into growth.  
+* 🎨 Linux ricing and system tweaks fuel my creativity.  
+* 🌟 Code. Tinker. Repeat.
 
-- :telescope: I am currently studying software engineering at NSBM Green University.
-
-- :seedling: Exploring Technical Content.
-
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Avishka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avishkap)
-<br/>
+<!-- Programming languages -->
+<h2>I've worked with</h2>
 <div align="center">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Avishka2k&custom_title=Avishka's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka2k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<a href="https://github.com/avishka2k#gh-light-mode-only">
+ <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=light&perline=20" />
+</a>
+<a href="https://github.com/avishka2k#gh-dark-mode-only">
+ <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=dark&perline=20" />
+</a>
 </div>
 
-#### :hammer_and_wrench: Languages and Tools :
+<br/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,nestjs,react,spring,dotnet,flask" />
-  </a>
-</p>
+<div align="center">
+ <picture align = "left">
+     <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Avishka2k&custom_title=Avishka's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+  </picture>
+<picture align = "left">
+     <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka2k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+</picture>
+  <picture align = "right">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-custom-season.svg" width = "98%">
+    <img width="60%" src="profile-3d-contrib/profile-custom-night-view.svg" width = "98%"/>
+  </picture>
+</div>
 
+<br/>
 
-#### 🏆 Achievements :
+<details>
+<summary><h2>Achievements 🏆</h2></summary>
 
 [![@avishka2k's Holopin board](https://holopin.me/avishka2k)](https://holopin.io/@avishka2k)
 
@@ -58,6 +58,8 @@ I am DevOps Practitioner And Full Stack Developer from Sri Lanka.
 <img width="150" src="https://user-images.githubusercontent.com/86360412/214763352-e6e1016c-6581-4e27-8694-b5fc8eba95f9.png" alt="DevOps Badge"/>
 <img width="130" src="https://user-images.githubusercontent.com/86360412/214763691-6c14f5d6-0a46-4052-b409-f41d483d8716.png"/>
 </div>
+
+</details>
 
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
