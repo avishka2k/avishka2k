@@ -28,10 +28,10 @@
 <!-- Programming languages -->
 <h2>I've worked with</h2>
 <a href="https://github.com/avishka2k#gh-light-mode-only">
- <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=light&perline=20" />
+ <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=light&perline=8" />
 </a>
 <a href="https://github.com/avishka2k#gh-dark-mode-only">
- <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=dark&perline=9" />
+ <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=dark&perline=8" />
 </a>
 
 <!-- Profile summary -->
