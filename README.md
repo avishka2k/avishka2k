@@ -13,6 +13,11 @@
 <h1> Hello, I am Avishka <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
 <div align="left">
 
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273077298-30G7YE5PFHJW058FFNNJ/summer-ani.gif" align="right" width="30%">
+    <img src="images/coding.gif" width="40%" align="right" />
+ </picture>
+
 <!--   About me -->
 * ☁️ Cloud enthusiast | 🐧 Linux lover | 🌩️ AWS explorer.   
 * 💻 Building full-stack dreams, one line at a time.  
@@ -22,27 +27,25 @@
 
 <!-- Programming languages -->
 <h2>I've worked with</h2>
-<div align="center">
 <a href="https://github.com/avishka2k#gh-light-mode-only">
  <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=light&perline=20" />
 </a>
 <a href="https://github.com/avishka2k#gh-dark-mode-only">
- <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=dark&perline=20" />
+ <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=dark&perline=9" />
 </a>
-</div>
 
-<br/>
-
+<!-- Profile summary -->
+<h2>Profile summary </h2>
 <div align="center">
  <picture align = "left">
-     <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Avishka2k&custom_title=Avishka's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Avishka2k&custom_title=Avishka's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
   </picture>
 <picture align = "left">
-     <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka2k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+     <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka2k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </picture>
   <picture align = "right">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-custom-season.svg" width = "98%">
-    <img width="60%" src="profile-3d-contrib/profile-custom-night-view.svg" width = "98%"/>
+    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
+    <img src="images/profile-custom-night-view.svg" width = "98%"/>
   </picture>
 </div>
 
