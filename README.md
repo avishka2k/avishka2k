@@ -26,10 +26,10 @@
 
 <!-- Programming languages -->
 <h2>I've worked with</h2>
-<a href="https://github.com/avishka2k#gh-light-mode-only">
+<a href="https://github.com/avixkap#gh-light-mode-only">
  <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=light&perline=8" />
 </a>
-<a href="https://github.com/avishka2k#gh-dark-mode-only">
+<a href="https://github.com/avixkap#gh-dark-mode-only">
  <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,terraform,ansible,linux,redhat,kubernetes,docker,heroku,gitlab,git,github,githubactions,flutter,bash,php,java,js,ts,py,nodejs,cs,vim,postman,vscode,visualstudio,mysql,postgres,linkedin,npm,nestjs,react,spring,dotnet,flask&theme=dark&perline=8" />
 </a>
 
@@ -37,10 +37,10 @@
 <h2>Profile summary </h2>
 <div align="center">
  <picture align = "left">
-     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Avishka2k&custom_title=Avishka's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=avixkap&custom_title=Avishka's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
   </picture>
 <picture align = "left">
-     <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka2k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+     <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=avixkap&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </picture>
   <picture align = "right">
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
@@ -53,7 +53,7 @@
 <details>
 <summary><h2>Achievements 🏆</h2></summary>
 
-[![@avishka2k's Holopin board](https://holopin.me/avishka2k)](https://holopin.io/@avishka2k)
+[![@avixkap's Holopin board](https://holopin.me/avixkap)](https://holopin.io/@avixkap)
 
 <div align="center">
 <img width="150" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
